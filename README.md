@@ -10,10 +10,10 @@
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=karjov&theme=dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kajov&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark)"/>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=karjov&theme=dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kajov&theme=dark&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karjov&theme=dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kajov&theme=dark&layout=compact"/>
 </picture>
