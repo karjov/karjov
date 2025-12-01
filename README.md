@@ -50,6 +50,25 @@ I operate in the overlap between **Infrastructure**, **Automation**, and **Secur
 - Containers (Docker, compose setups, per-environment config patterns)
 
 My focus: building systems that don’t rely on tribal knowledge — just clean, reproducible automation.
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-ffffff?logo=yaml&logoColor=cb171e&style=for-the-badge)
+![Helm](https://img.shields.io/badge/Helm-0f1689?logo=helm&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?logo=intellijidea&logoColor=white&style=for-the-badge)
+![Remote Work](https://img.shields.io/badge/Remote_Work-0A66C2?logo=homeassistant&logoColor=white&style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-555555?logo=serverfault&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -78,8 +97,12 @@ Active areas:
 
 ## 🔗 Find Me
 
-- GitHub — https://github.com/karjov | https://github.com/kajov
-- SoundCloud (**TRIFΞCTΛ**) — https://soundcloud.com/djtrifectaofficial  
-- Spotify (**TRIFΞCTΛ**) — https://open.spotify.com/artist/5XjmyAq7T7pl4jTsI0BVKX  
+![karjov](https://img.shields.io/badge/GitHub-karjov-181717?logo=github&logoColor=white&style=for-the-badge)
+![kajov](https://img.shields.io/badge/GitHub-kajov-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
+
+## 🎵 Music
+
+[![Spotify](https://img.shields.io/badge/Spotify-TRIFΞCTΛ-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5XjmyAq7T7pl4jTsI0BVKX)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-TRIFΞCTΛ-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/djtrifectaofficial)
