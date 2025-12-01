@@ -54,23 +54,23 @@ I operate in the overlap between **Infrastructure**, **Automation**, and **Secur
 My focus: building systems that don’t rely on tribal knowledge — just clean, reproducible automation.
 
 ### 🛠 Skills & Tooling
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=cb171e)
-![Helm](https://img.shields.io/badge/Helm-0f1689?style=for-the-badge&logo=helm&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Remote Work](https://img.shields.io/badge/Remote_Work-0A66C2?style=for-the-badge&logo=homeassistant&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-555555?style=for-the-badge&logo=serverfault&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux" />
+<img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible" alt="Ansible" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=cb171e" alt="YAML" />
+<img src="https://img.shields.io/badge/Helm-0f1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA Ultimate" />
+<img src="https://img.shields.io/badge/Remote_Work-0A66C2?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Remote Work" />
+<img src="https://img.shields.io/badge/Infrastructure-555555?style=for-the-badge&logo=serverfault&logoColor=white" alt="Infrastructure" />
 
 ---
 
