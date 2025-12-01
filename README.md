@@ -53,10 +53,7 @@ I operate in the overlap between **Infrastructure**, **Automation**, and **Secur
 
 My focus: building systems that don’t rely on tribal knowledge — just clean, reproducible automation.
 
-<br>
-
 ### 🛠 Skills & Tooling
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
