@@ -1,6 +1,5 @@
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   T R I F Ξ C T Λ   –   S I G N A L V E R S E   S Y S T E M  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+# TRIFΞCTΛ / Karolis Jovaisas  
+# Infrastructure • Automation • Signalverse Architect
 
 Infrastructure / DevOps / SecOps engineer focused on building secure, automated infrastructure for production systems.  
 I work across on-prem and cloud environments, shaping systems that are modular, testable, and actually maintainable.
