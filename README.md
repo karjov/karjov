@@ -107,5 +107,5 @@ Active areas:
 
 ## 🎵 Music
 
-[![Spotify](https://img.shields.io/badge/Spotify-TRIFΞCTΛ-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5XjmyAq7T7pl4jTsI0BVKX)
+[![Spotify](https://img.shields.io/badge/Spotify-TRIFΞCTΛ-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5xjmyAq7T7pIAjTsIOBXVk?si=6_putufVRquK-gVbtswQew)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-TRIFΞCTΛ-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/djtrifectaofficial)
