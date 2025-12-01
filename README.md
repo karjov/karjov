@@ -99,8 +99,9 @@ Active areas:
 
 ## 🔗 Find Me
 
-![karjov](https://img.shields.io/badge/GitHub-karjov-181717?style=for-the-badge&logo=github&logoColor=white)
-![kajov](https://img.shields.io/badge/GitHub-kajov-181717?style=for-the-badge&logo=github&logoColor=white)
+[![karjov](https://img.shields.io/badge/GitHub-karjov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karjov)
+[![kajov](https://img.shields.io/badge/GitHub-kajov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kajov)
+
 
 ---
 
