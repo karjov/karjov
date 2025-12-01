@@ -1,5 +1,6 @@
 # TRIFΞCTΛ / Karolis Jovaisas  
-## Infrastructure • Automation • Signalverse Architect
+**Infrastructure • Automation • Signalverse Architect**
+---
 
 Infrastructure / DevOps / SecOps engineer focused on building secure, automated infrastructure for production systems.  
 I work across on-prem and cloud environments, shaping systems that are modular, testable, and actually maintainable.
